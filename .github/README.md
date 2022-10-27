@@ -22,5 +22,5 @@ Adicionalmente, o jogo também aponta um outro placar, composto de partidas joga
 
 ## 📞 Contato
 
-pedrohgs2004@gmail.com <br>
+E-mail: pedrohgs2004@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/pedro-henrique-g-silva-a2100a23a/?originalSubdomain=br
