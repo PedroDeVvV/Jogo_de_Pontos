@@ -4,7 +4,7 @@
 
 Projeto proposto como uma atividade na Etec de Embu, utilizando a linguagem C# como ferramente e também Windows Forms.
 
-##📃 Regras do jogo
+## 📃 Regras do jogo
 Dois dados para o computador, com valor oculto.
 Para o jogador, são exibidos os valores de dois dos seus cinco dados e a soma aparece no placar. O terceiro dado fica oculto até que o jogador clique. Ao clicar no terceiro dado, o seu valor é gerado, exibido e totalizado, e um quarto dado é disponibilizado para clique. O comportamento do quarto dado é similar, disponibilizando o quinto dado.
 A qualquer momento o jogador pode clicar no botão Finalizar, que exibirá os valores dos dados do computador e indicará o vencedor, onde vencedor é aquele que obtiver a maior soma dos dados, desde que não estoure o máximo de 13. Como o computador joga apenas com 2 dados, em caso de empate será apontada a vitória para o computador.
