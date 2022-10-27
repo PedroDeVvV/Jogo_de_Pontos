@@ -1,0 +1,10 @@
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\bin\Debug\JogoDado13.exe.config
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\bin\Debug\JogoDado13.exe
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\bin\Debug\JogoDado13.pdb
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.MainForm.resources
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.csproj.GenerateResource.Cache
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.exe
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.pdb
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.csproj.AssemblyReference.cache
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.csproj.SuggestedBindingRedirects.cache
+D:\Programação e Algorítmos\JogoDado13\JogoDado13\obj\Debug\JogoDado13.csproj.CoreCompileInputs.cache
